@@ -1,4 +1,4 @@
-# kube101
+# 3tier-web-app-docker-kube
 
 These instructions show how to deploy a very simple web application that uses a data backend using redis. You don't need to install **any** software, just point your browser at the kubernetes playground and follow along with the steps.
 
